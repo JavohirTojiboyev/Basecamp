@@ -4,6 +4,10 @@ Expressjs & sqlite3 project
 
 ### install this project
 ```
+git clone https://github.com/JavohirTojiboyev/Basecamp.git
+```
+
+```
 npm install && npm i nodemon -g
 ```
 
